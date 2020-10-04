@@ -117,7 +117,7 @@
 
 .two-columns__main-text {
   width: 80%;
-  min-width: 784px
+  min-width: 784px;
 }
 
 .two-columns__main-text p {
@@ -273,11 +273,6 @@ span {
   margin: auto;
   z-index: 0;
   margin-bottom: 90px;
-}
-
-.table__cell_theme_dark {
-  width: 200px;
-  margin-top: 60px;
 }
 
 .table__heading_theme_dark {
