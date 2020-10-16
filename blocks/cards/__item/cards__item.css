@@ -1,13 +1,13 @@
-.cadrs__item {
+.cards__item {
   width: 240px;
   list-style-type: none;
 }
 
-.cadrs__item:nth-child(2) {
+.cards__item:nth-child(2) {
   margin: 0 100px;
 }
 
-.cadrs__item:nth-child(5) {
+.cards__item:nth-child(5) {
   margin: 0 100px;
 }
 
